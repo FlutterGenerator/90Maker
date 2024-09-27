@@ -1,4 +1,6 @@
 # 120FPS Maker
+## Installing
+```
 termux-setup-storage
 pkg update && pkg upgrade -y
 pkg install git -y
@@ -7,3 +9,6 @@ cd 120Maker
 chmod +x setup 120Maker
 bash setup
 ./120Maker
+```
+[>] Done.
+
